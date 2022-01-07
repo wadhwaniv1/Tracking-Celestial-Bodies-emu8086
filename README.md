@@ -1,5 +1,5 @@
 # Tracking-Celestial-Bodies-emu8086
-<h3> Track the position of sun throught the day using horizontal and equatorial coordinates with the help of emu8086 and stepper motor.</h3>
+<h3> Track the position of sun throughout the day using horizontal and equatorial coordinates with the help of emu8086 and stepper motor.</h3>
 <ol>  
   <li>Install emu8086.</li>
   <li>Click on emulate.</li>
